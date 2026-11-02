@@ -221,12 +221,11 @@ Every request is logged with:
 - HTTP Method
 - Request Path
 - Response Status Code
-- Execution Time
 
 Example:
 
 ```text
-Method: GET | Path: /api/users | StatusCode: 200 | Duration: 25ms
+Method: GET | Path: /api/users | StatusCode: 200 
 ```
 
 ---
